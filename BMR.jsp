@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Welcome fsto The BMR Calculator!</title>
+    <title>Welcome fsto The BMR Calculator</title>
 </head>
 
 <body>
