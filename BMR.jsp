@@ -7,7 +7,11 @@
 <body>
 
 <form name="calc" id="calc" method="get">
+<<<<<<< HEAD
     <h2> Calculate Your BMR!!!!!!!!!!!!</h2>
+=======
+    <h2> Calculate Your BMR&#127947;</h2>
+>>>>>>> 6335f048f9657d80f7d1dae71adabc3b55b200da
     First Name: <input type="text" id ="fname" name="fname" required>
     <br/>
     Last Name: <input type="text" id ="lname" name="lname" required>
